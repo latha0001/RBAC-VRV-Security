@@ -13,7 +13,7 @@ A simple role-based access control (RBAC) admin dashboard built using React and 
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/latha0001/RBAC-VRV-Security
    ```
 2. Open the `index.html` file in a modern browser to view the application.
 
